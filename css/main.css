@@ -42,6 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
+.container {
+    position: relative;
+}
+
 .center {
     position: absolute;
     top: 50%;
